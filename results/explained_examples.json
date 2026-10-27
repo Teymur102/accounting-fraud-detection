@@ -1,0 +1,124 @@
+{
+  "top_scored": {
+    "gvkey": 16477,
+    "fyear": 2006,
+    "misstate": 0,
+    "p_aaer": null,
+    "score": 0.8981905757962981,
+    "rank_in_year": 1,
+    "firms_in_year": 5908,
+    "base_value_logodds": -2.532965267450422,
+    "m_score": -2.4599654901727313,
+    "drivers": [
+      {
+        "feature": "act",
+        "shap_logodds": 2.2695,
+        "value": 3890.3,
+        "year_median": 67.03849792480469
+      },
+      {
+        "feature": "sstk",
+        "shap_logodds": 0.7414,
+        "value": 199.4,
+        "year_median": 2.2125000953674316
+      },
+      {
+        "feature": "prcc_f",
+        "shap_logodds": 0.2836,
+        "value": 29.53,
+        "year_median": 8.479999542236328
+      },
+      {
+        "feature": "ap",
+        "shap_logodds": 0.2706,
+        "value": 2317.3999,
+        "year_median": 8.567999839782715
+      },
+      {
+        "feature": "ppegt",
+        "shap_logodds": -0.2484,
+        "value": 2785.8999,
+        "year_median": 48.09199905395508
+      },
+      {
+        "feature": "invt",
+        "shap_logodds": 0.2282,
+        "value": 581.5,
+        "year_median": 3.5160000324249268
+      },
+      {
+        "feature": "ib",
+        "shap_logodds": 0.1959,
+        "value": -710.4,
+        "year_median": 1.6855000257492065
+      },
+      {
+        "feature": "dp",
+        "shap_logodds": -0.1908,
+        "value": 392.2,
+        "year_median": 4.682000160217285
+      }
+    ]
+  },
+  "top_true_fraud": {
+    "gvkey": 238616,
+    "fyear": 2008,
+    "misstate": 1,
+    "p_aaer": 3528,
+    "score": 0.8195592345119774,
+    "rank_in_year": 3,
+    "firms_in_year": 5612,
+    "base_value_logodds": -2.5002036435551043,
+    "m_score": -2.589414086163044,
+    "drivers": [
+      {
+        "feature": "act",
+        "shap_logodds": 1.1695,
+        "value": 26563.4375,
+        "year_median": 73.98699951171875
+      },
+      {
+        "feature": "lct",
+        "shap_logodds": 0.9744,
+        "value": 25436.1367,
+        "year_median": 34.62900161743164
+      },
+      {
+        "feature": "sstk",
+        "shap_logodds": 0.7675,
+        "value": 75.441,
+        "year_median": 0.5130000114440918
+      },
+      {
+        "feature": "ppegt",
+        "shap_logodds": -0.7263,
+        "value": 27130.2188,
+        "year_median": 57.70949935913086
+      },
+      {
+        "feature": "cogs",
+        "shap_logodds": 0.5055,
+        "value": 44841.1719,
+        "year_median": 73.98699951171875
+      },
+      {
+        "feature": "csho",
+        "shap_logodds": 0.4999,
+        "value": 457.597,
+        "year_median": 40.98899841308594
+      },
+      {
+        "feature": "rect",
+        "shap_logodds": 0.1839,
+        "value": 18579.916,
+        "year_median": 16.22949981689453
+      },
+      {
+        "feature": "re",
+        "shap_logodds": 0.1641,
+        "value": -5709.1558,
+        "year_median": -6.0370001792907715
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "runtime_min": 14.692041901747386,
+  "peak_rss_mb": 582.320128,
+  "python": "3.14.4",
+  "lightgbm_params": {
+    "n_estimators": 100,
+    "num_leaves": 7
+  },
+  "rusboost_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

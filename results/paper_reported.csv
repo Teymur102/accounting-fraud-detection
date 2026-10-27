@@ -1,0 +1,10 @@
+window,model,auc,ndcg_at_k,sensitivity_topk,precision_topk,hits,source
+2003-2005,rusboost_raw28,0.7428,0.0394,0.0453,0.0502,9,Bao et al. (2021) Econ Journal Watch 18(1) Table 1 (quoted)
+2003-2005,logit_raw28,0.6736,0.0084,0.0097,0.0113,2,Bao et al. (2021) Econ Journal Watch 18(1) Table 1 (quoted)
+2003-2005,logit_ratios14,0.6483,0.0109,0.0137,0.0128,2,Bao et al. (2021) Econ Journal Watch 18(1) Table 1 (quoted)
+2003-2008,rusboost_raw28,0.7228,0.0237,0.0291,0.0281,10,Bao et al. (2021) Econ Journal Watch 18(1) Table 1 (quoted)
+2003-2008,logit_raw28,0.6842,0.0042,0.0048,0.0057,2,Bao et al. (2021) Econ Journal Watch 18(1) Table 1 (quoted)
+2003-2008,logit_ratios14,0.6711,0.0273,0.0399,0.0262,8,Bao et al. (2021) Econ Journal Watch 18(1) Table 1 (quoted)
+2003-2014,rusboost_raw28,0.7196,0.0182,0.0244,0.0187,13,Bao et al. (2021) Econ Journal Watch 18(1) Table 1 (quoted)
+2003-2014,logit_raw28,0.7061,0.0101,0.0172,0.009,6,Bao et al. (2021) Econ Journal Watch 18(1) Table 1 (quoted)
+2003-2014,logit_ratios14,0.7015,0.0223,0.0345,0.0185,11,Bao et al. (2021) Econ Journal Watch 18(1) Table 1 (quoted)
